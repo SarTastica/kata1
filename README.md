@@ -1,6 +1,4 @@
-Kata 1: Flujo de Trabajo y Entorno de Desarrollo
-**Objetivo:** Automatizar la creación de proyectos y clases optimizando el uso del IDE.
-* Configuración de proyecto Java en **IntelliJ IDEA**.
-* Inicialización de repositorio **Git**.
-* **"No Mouse Policy"**: Uso intensivo de atajos de teclado para refactorización y navegación.
-* Buenas prácticas en mensajes de commit.
+Kata 1: Entorno y Eficiencia
+> **El reto:** *Desarrollar sin tocar el ratón.*
+
+El primer paso es dominar la herramienta. En esta kata configuramos el entorno profesional con **IntelliJ IDEA** y **Git**. La regla es **"No Mouse"**: forzamos el uso de atajos de teclado para refactorizar, navegar y generar código, logrando una velocidad de desarrollo superior y un flujo de trabajo fluido.
